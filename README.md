@@ -1,2 +1,2 @@
-# vue_template
-vue_template
+# react_template
+react_template

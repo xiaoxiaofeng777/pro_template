@@ -1,2 +1,2 @@
-# pro_template
-pro_template
+# vue_template
+vue_template
